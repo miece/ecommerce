@@ -24,6 +24,7 @@ defined("ROOT_PATH") || define("ROOT_PATH", realpath(dirname(__FILE__) . DS . ".
 // classes folder
 defined("CLASSES_DIR") || define("CLASSES_DIR", "classes");
 
+// pages path
 defined("PAGES_DIR") || define("PAGES_DIR", "pages");
 
 // modules folder
